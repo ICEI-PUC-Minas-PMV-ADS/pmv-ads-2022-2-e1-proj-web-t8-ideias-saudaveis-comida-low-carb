@@ -9,29 +9,17 @@ Com base nos dados apresentados, o foco principal desse projeto será o combate 
 
 O Objetivo Geral desse projeto é criar de um Portal Informativo que vise conscientizar as pessoas sobre os benefícios de uma alimentação saudável baseada em alimentos Low Carb. Um canal com informações confiáveis e direcionadas àqueles que almejam um estilo de vida saudável, longe de produtos industrializados
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+●	Criar de hábitos alimentares saudáveis por meio de informações que propiciem a diminuição no consumo de carboidratos;
+●	Esclarecer sobre os benefícios da dieta low carb para o corpo e mente.
+●	Publicar notícias e atualizações sobre os principais benefícios da dieta low carb
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Em 2017, com a publicação do relatório OBESITY: PREVENTING AND MANAGING  THE GLOBAL EPIDEMIC1, a Organização Mundial de Saúde reconheceu a obesidade como uma doença. Segundo a Federação Mundial da Obesidade, esse foi um documento chave, visto que colocou a obesidade no hall de doenças crônicas ainda não totalmente conhecidas, abrindo as portas para estudos mais aprofundados pela comunidade científica. Hoje a obesidade é vista como um problema de saúde pública por vários países. No Brasil não é diferente: nossa população acima do peso foi aumentando conforme foram surgindo com os chamados alimentos de calorias vazias. Hoje, após as mudanças de hábito causadas pela pandemia do Covid-19, pesquisas indicam que seis a cada 10 brasileiros apresenta excesso de peso. Estamos cada vez mais atarefados, e acabamos optando pela versatilidade de alimentos prontos, industrializado. Uma das opções que se apresenta são as dietas de baixo teor de carboidratos, ou as dietas Low-carb (WORD OBESITY,2022).  
+A prevenção de doenças começa com a criação de hábitos alimentares desde a nossa infância. A ingestão de alimentos industrializados, frituras e açucares são os grandes vilões e contribuem para o crescimento da obesidade em todas as faixas etárias e aparecimento de várias doenças
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Embora todas as pessoas possam se beneficiar de uma dieta Low Carb, teremos com foco, pessoas obesas ou com sobrepeso, profissionais de academia (nutricionistas, personal trainer) e principalmente aqueles que buscam uma alimentação saudável de forma preventiva.

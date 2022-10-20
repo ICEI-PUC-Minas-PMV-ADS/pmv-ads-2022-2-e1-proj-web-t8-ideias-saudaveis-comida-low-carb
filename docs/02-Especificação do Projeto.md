@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Com base nos dados apresentados, catalogamos através de entrevistas pessoas que fazem uso da dieta Low Carb seja ela para prevenção, redução ou ferramenta de trabalho (nutricionistas, e personal trainer). Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
@@ -16,12 +12,11 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/marisaCamargo.png" width="800"></th>
+    <th rowspan="2"><img src="./img/marisaCamargo.jpg" width="800"></th>
     <td colspan="2" align="right"><b>Marisa Camargo</b> </td>
 </tr>
 <tr>
     <td><b>Idade:</b>51 <br><br> <b>Ocupação:</b> funcionária pública. Atua no Ministério Público do Estado de Minas Gerais (vara da criança e adolescente).
-
  <br><br>       
     </td> 
        <td><b>Aplicativos:</b> <ul><li>Instagram</li><li>Whatsapp</li><li>Twitter</li>
@@ -29,8 +24,18 @@ As personas levantadas durante o processo de entendimento do problema são apres
   <br><br>       
     </td> 
     <br>
-    <td><b>Em relação ao projeto: </b> Disse que usaria um site ou aplicativo que ajudasse pessoas em vulnerabilidade social a encontrarem pontos de distribuição gratuita de alimentos e refeições. O ponto de distribuição gratuita de alimentos deverá fornecer pontos de coleta para doações de mantimentos próximos a sua residência.
+    <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li><li>Aplicação do Direito</li>
     </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Obesidade</li><li>Baixa remuneração</li><li>Falta de reconhecimento</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Cinema</li><li>Shows</li><li>Teatros</li>
+    </td>  
+    <br><br>
 </tr>
 </table>
 
@@ -40,52 +45,186 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/carlos.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Carlos</b></td>
+    <th rowspan="2"><img src="./img/valeriaPrado.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Valéria Prado</b></td>
 </tr>
 <tr>
-    <td><b>Idade:</b> 19 <br><br> <b>Dificuldades:</b> Sente que necessita ajudar a combater a fome no Brasil. Para isso, considera necessário ter um site que reúna todos os pontos de coleta para doação de mantimentos próximo de sua residência e próximo ao seu local de trabalho. Para ele, o site deve ser amigável, acessível e bem projetado.
+    <td><b>Idade:</b>33<br><br> <b>Ocupação:</b> nutricionista. Atua em uma academia. Possui um consultório para atendimento direcionado.
  <br><br>     
     </td> 
-    <td> <b>Em relação ao projeto:</b> Apresentou entusiasmo ao saber que vai ser desenvolvido um site que pode fornecer pontos de coleta para doações de mantimentos de forma permanente e não quando acontece algum tipo de catástrofe.
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Trabalho</li><li>Forma física</li><li>Saúde Preventiva</li>
     </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Mercado Competitivo</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
+    </td>  
+    <br><br>
 </tr>
-
 <table border="1" width="70%">
 <tr>
     <th></th>
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/joaopedro.png" width="800"></th>
-    <td colspan="2" align="right"><b>Juarez</b></td>
+    <th rowspan="2"><img src="./img/carlosEdurado.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
-    <td><b>Idade:</b> 15 <br><br> <b>Dificuldades:</b> Morador da periferia e ativista, sente que precisa fazer algo para amenizar o sofrimento da população em situação de vulnerabilidade social. Sente que precisa de um site que crie um mapa contendo pontos de mobilização social, que receba doações de alimentos e itens de necessidade básica.
+    <td><b>Idade:</b>28<br><br> <b>Ocupação:</b> advogado, atua em ações do Direito de família.
  <br><br>     
     </td> 
-    <td> <b>Em relação ao projeto:</b> Ficou super interessado e disse que usaria um aplicativo web que fornecesse ferramentas que viabilizassem a procura de pontos de coleta de doações.
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li>
     </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Saúde Física</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Cinemas</li><li>Shows</li>
+    </td>  
+    <br><br>
 </tr>
-
 <table border="1" width="70%">
 <tr>
     <th></th>
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/Barbaraa.jpg" width="400"></th>
-    <td colspan="2" align="right"><b>Barbara</b></td>
+    <th rowspan="2"><img src="./img/wesleySouza.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Wesley Souza</b></td>
 </tr>
 <tr>
-    <td><b>Idade:</b> 60 <br><br> <b>Dificuldades:</b> Precisa de um site seguro e transparente para realizar doações financeiras a uma instituição que distribui mantimentos.
+    <td><b>Idade:</b>29<br><br> <b>Ocupação:</b>Programador. Atua em multinacional como iOS Software Engineer.
  <br><br>     
     </td> 
-    <td> <b>Em relação ao projeto:</b> Disse que usaria um site que fosse transparente e mostrasse para onde a sua doação estivesse indo.
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams</li><li>Linkedin</li><li>Youtube</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Estilo de trabalho (home office)</li><li>Saúde preventiva</li><li>Forma Física</li>
     </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Obesidade</li><li>Sedentarismo</li><li>Saúde Mental e Física</li><li>Baixa autoestima</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Jogos Virtuais</li><li>Eventos de carros antigos</li>
+    </td>  
+    <br><br>
 </tr>
-</table>
-
+<table border="1" width="70%">
+<tr>
+    <th></th>
+    <td></td>
+</tr>
+<tr>
+    <th rowspan="2"><img src="./img/suelenCristina.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Suelen Cristina</b></td>
+</tr>
+<tr>
+    <td><b>Idade:</b>49<br><br> <b>Ocupação:</b> Empresária. Atua no comércio de roupas fitness. 
+ <br><br>     
+    </td> 
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li>
+    </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Sedentarismo</li><li>Saúde Mental</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Assistir Seriados</li><li>Cozinhar</li><li>Viajar</li>
+    </td>  
+    <br><br>
+</tr>
+<table border="1" width="70%">
+<tr>
+    <th></th>
+    <td></td>
+</tr>
+<tr>
+    <th rowspan="2"><img src="./img/danielaQueiroz.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Daniela Queiroz</b></td>
+</tr>
+<tr>
+    <td><b>Idade:</b>25<br><br> <b>Ocupação:</b>Educadora física. Atua como personal trainer em academias. 
+ <br><br>     
+    </td> 
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtube</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li><li>Conhecimento</li>
+    </td>  
+    <br><br>
+    <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
+    </td>  
+    <br><br>
+</tr>
+<table border="1" width="70%">
+<tr>
+    <th></th>
+    <td></td>
+</tr>
+<tr>
+    <th rowspan="2"><img src="./img/daviRocha.jpg" width="900"></th> 
+    <td colspan="2" align="right"><b>Davi Rocha</b></td>
+</tr>
+<tr>
+    <td><b>Idade:</b>32<br><br> <b>Ocupação:</b>Jornalista. Atua redator de conteúdo em site de famosos. 
+ <br><br>     
+    </td> 
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtuber</li><li>Twitter</li>
+    </ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Motivações: </b><ul><li>Saúde</li><li>Forma física</li><li>Connhecimento</li>
+    </td>  
+    <br><br>
+    <td><b>Frustações: </b><ul><li>Portador de diabetes tipo 2</li>
+    </td>  
+</ul>
+  <br><br>       
+    </td> 
+    <br>
+    <td><b>Hobbies, História: </b><ul><li>Filmes</li><li>Leituras</li><li>Viajar</li>
+    </td>  
+    <br><br>
+</tr>
 
 ## Histórias de Usuários
 
