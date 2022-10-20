@@ -16,7 +16,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./marisaCamargo.png" width="800"></th>
+    <th rowspan="2"><img src="./img/marisaCamargo.png" width="800"></th>
     <td colspan="2" align="right"><b>Marisa Camargo</b> </td>
 </tr>
 <tr>
