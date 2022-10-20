@@ -5,18 +5,9 @@ Eis que em meio a esse caos social crescente, surge a dieta Low Carb que nada ma
 ## Problema
 Com base nos dados apresentados, o foco principal desse projeto será o combate à obesidade e a prevenção de doença por meio da informação e dicas de uma alimentação saudável baseada no controle de ingestão de carboidratos.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O Objetivo Geral desse projeto é criar de um Portal Informativo que vise conscientizar as pessoas sobre os benefícios de uma alimentação saudável baseada em alimentos Low Carb. Um canal com informações confiáveis e direcionadas àqueles que almejam um estilo de vida saudável, longe de produtos industrializados
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
