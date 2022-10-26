@@ -1,0 +1,11 @@
+.header {
+    overflow: hidden;
+    padding: 3px 3px; 
+    background-color:#A1B69F;
+    }
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #b2b69f;
+}
