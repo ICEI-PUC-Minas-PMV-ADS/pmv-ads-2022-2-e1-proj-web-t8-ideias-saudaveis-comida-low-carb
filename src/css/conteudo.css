@@ -1,0 +1,47 @@
+/* Header */
+.header {
+    overflow: hidden;
+    padding: 30px 0px; 
+    background-color:#A1B69F;
+    }
+    
+    #logop {
+        width: 120px;
+        display: inline;
+        float:  left;
+        position: absolute;
+        left: 30px;
+        top: 5px;
+    }
+
+/* body */
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #b2b69f;
+}
+
+#titulo{
+    display:inline;
+    width:  100%;
+    float:left;
+    position:fixed;
+    top: 0px;
+    left:70%;
+
+    font-family: Helvetica;
+    
+}
+
+#enconstrucao{
+    display: inline;
+    width:  100%;
+    float:left;
+    position: fixed;
+    left: 500px;
+    top: 300px;
+   
+    font-family: Helvetica;
+    font-size:300%;
+    
+}
