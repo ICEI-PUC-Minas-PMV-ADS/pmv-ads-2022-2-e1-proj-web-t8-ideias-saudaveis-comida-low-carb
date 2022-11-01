@@ -187,7 +187,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
     </td>  
 </ul>
-  <br><br>       
+  <br><br>       '
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
@@ -200,7 +200,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/daviRocha.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Davi Rocha</b></td>
 </tr>
 <tr>
