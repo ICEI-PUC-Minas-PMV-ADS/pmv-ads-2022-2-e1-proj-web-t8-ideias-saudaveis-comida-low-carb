@@ -12,7 +12,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/marisaCamargo.png" width="800"></th>
+    <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
     <td colspan="2" align="right"><b>Marisa Camargo</b> </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/valeriaPrado.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/valeriaPrado.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Valéria Prado</b></td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/carlosEdurado.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/carlosEdurado.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/wesleySouza.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Wesley Souza</b></td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/suelenCristina.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Suelen Cristina</b></td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/danielaQueiroz.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/danielaQueiroz.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Daniela Queiroz</b></td>
 </tr>
 <tr>
