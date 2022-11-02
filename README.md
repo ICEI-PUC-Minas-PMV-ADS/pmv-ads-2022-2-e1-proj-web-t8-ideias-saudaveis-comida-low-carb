@@ -1,13 +1,12 @@
 # Ideias Saudáveis Comida Low Carb
-
-
 `CURSO`
-
+Análise de Desenvolvimento de Sistemas
 `DISCIPLINA`
-
+Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 08
 `SEMESTRE`
-
+2022/2
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste na criação de um criar de um Portal Informativo que vise conscientizar as pessoas sobre os benefícios de uma alimentação saudável baseada em alimentos Low Carb. 
 
 ## Integrantes
 
