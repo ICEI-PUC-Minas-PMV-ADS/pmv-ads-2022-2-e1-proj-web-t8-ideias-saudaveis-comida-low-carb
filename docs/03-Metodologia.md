@@ -72,11 +72,13 @@ O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
 
-|ID    | Descrição do Requisito  | Prioridade |
+|AMBIENTE   | PLATAFORMA  | LINK DE ACESSO |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|Repositório de código fonte| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t8-ideias-saudaveis-comida-low-carb | 
+|Projeto de Interface e  Wireframes| Figma | https://www.figma.com/file/BCk5veOo715a6HCdXGGWsZ/wireframe---ideais-saud%C3%A1veis?node-id=0%3A1
 
+ |
+|Gerenciamento do Projeto| Trello   | https://trello.com/b/b9GwJP3W/ads-projeto |
 
 - Editor de código.
 - Ferramentas de comunicação
