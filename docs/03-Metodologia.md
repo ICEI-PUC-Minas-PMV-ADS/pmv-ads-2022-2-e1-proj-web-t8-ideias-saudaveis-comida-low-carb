@@ -63,6 +63,7 @@ O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos
 
  <img src="..docs/img/painelTrello.png" width=100>
  Figura 1
+ <img id = "logop" src="../docs/img/Modelologo.png" width=100px>
 
 
 ### Processo
