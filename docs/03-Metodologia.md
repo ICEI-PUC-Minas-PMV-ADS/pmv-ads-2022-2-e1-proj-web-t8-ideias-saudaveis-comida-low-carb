@@ -61,7 +61,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL https://trello.com/b/b9GwJP3W/ads-projeto e é apresentado, no estado atual, na Figura 1. 
 
- <img src=".docs/img/painelTrello.png" width=1000>
+ <img src="..docs/img/painelTrello.png" width=100>
  Figura 1
 
 
