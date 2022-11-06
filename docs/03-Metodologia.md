@@ -43,14 +43,14 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira:
 
->	Scrum Master: Alessandra Thevenard;
->	Product Owner: Sanderlei Cabral;
->	Equipe de Desenvolvimento;
-> -     Alessandra Thevenard;
-> -     Sanderlei Cabral;
->	Equipe de Design;
-> -   Alessandra Thevenard;
-> -	  Sanderlei Cabral;
+ - Scrum Master: Alessandra Thevenard;
+ - Product Owner: Sanderlei Cabral;
+ - Equipe de Desenvolvimento:
+ > - Alessandra Thevenard;
+ -     Sanderlei Cabral;
+	Equipe de Design;
+ -   Alessandra Thevenard;
+ -	  Sanderlei Cabral;
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas: 
 
