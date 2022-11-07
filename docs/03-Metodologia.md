@@ -78,18 +78,4 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Projeto de Interface e  Wireframes| Figma | https://www.figma.com/file/BCk5veOo715a6HCdXGGWsZ/wireframe---ideais-saud%C3%A1veis?node-id=0%3A1 |
 |Gerenciamento do Projeto| Trello | https://trello.com/b/b9GwJP3W/ads-projeto |
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
