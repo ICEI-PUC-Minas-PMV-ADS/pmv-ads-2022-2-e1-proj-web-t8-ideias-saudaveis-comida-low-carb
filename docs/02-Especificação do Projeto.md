@@ -187,7 +187,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
     </td>  
 </ul>
-  <br><br>       
+  <br><br>
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
