@@ -100,6 +100,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -131,6 +133,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -162,6 +166,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -193,12 +199,13 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
     <td></td>
 </tr>
-
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Davi Rocha</b></td>
