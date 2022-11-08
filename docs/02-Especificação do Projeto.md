@@ -198,7 +198,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <th></th>
     <td></td>
 </tr>
-</table>
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="900"></th> 
