@@ -7,10 +7,7 @@ Com base nos dados apresentados, catalogamos através de entrevistas pessoas que
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas tabelas que se seguem.
 
 <table border="1" width="70%">
-<tr>
-    <th></th>
-    <td></td>
-</tr>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
     <td colspan="2" align="right"><b>Marisa Camargo</b> </td>
@@ -68,15 +65,17 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
-    <br><br>
+  
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="./img/Personas/carlosEdurado.jpg" width="900"></th> 
+    <th rowspan="2"><img src="../img/Personas/carlosEdurado.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
@@ -101,6 +100,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -132,6 +133,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -163,6 +166,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -187,13 +192,15 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
     </td>  
 </ul>
-  <br><br>       '
+  <br><br>
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
     </td>  
     <br><br>
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
@@ -223,8 +230,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br>
     <td><b>Hobbies, História: </b><ul><li>Filmes</li><li>Leituras</li><li>Viajar</li>
     </td>  
+</ul>
     <br><br>
 </tr>
+</table>
 
   
     
