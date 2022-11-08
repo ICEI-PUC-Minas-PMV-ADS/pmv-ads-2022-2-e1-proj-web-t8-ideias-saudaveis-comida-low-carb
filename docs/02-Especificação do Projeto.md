@@ -67,13 +67,15 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
   
 </tr>
+</table>
+
 <table border="1" width="70%">
 <tr>
     <th></th>
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="../img/Personas/carlosEdurado.jpg" width="1000"></th> 
+    <th rowspan="2"><img src="../img/Personas/carlosEdurado.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
@@ -196,6 +198,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <th></th>
     <td></td>
 </tr>
+</table>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Davi Rocha</b></td>
@@ -223,6 +227,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </ul>
     <br><br>
 </tr>
+</table>
 
   
     
