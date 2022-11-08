@@ -9,7 +9,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table border="1" width="70%">
 
 <tr>
-    <th rowspan="3"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
+    <th rowspan="6"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
     <td colspan="2" align="right"><b>Marisa Camargo</b> </td>
 </tr>
 <tr>
