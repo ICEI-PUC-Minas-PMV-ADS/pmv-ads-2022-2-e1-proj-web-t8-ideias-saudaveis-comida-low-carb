@@ -36,13 +36,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </table>
 
 <table border="1" width="70%">
-<tr>
-    <th></th>
-    <td></td>
-</tr>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/valeriaPrado.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Valéria Prado</b></td>
+    <td colspan="6" align="left"><b>Valéria Prado</b></td>
 </tr>
 <tr>
     <td><b>Idade:</b>33<br><br> <b>Ocupação:</b> nutricionista. Atua em uma academia. Possui um consultório para atendimento direcionado.
@@ -64,7 +61,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
-  
 </tr>
 </table>
 
@@ -74,7 +70,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td></td>
 </tr>
 <tr>
-    <th rowspan="2"><img src="../img/Personas/carlosEdurado.jpg" width="900"></th> 
+    <th rowspan="2"><img src=".docs/img/Personas/carlosEdurado.jpg" width="900"></th> 
     <td colspan="2" align="right"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
