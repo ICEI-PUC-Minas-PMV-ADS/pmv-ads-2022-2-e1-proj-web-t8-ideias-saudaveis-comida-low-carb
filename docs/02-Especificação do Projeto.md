@@ -65,7 +65,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
-    <br><br>
+  
 </tr>
 <table border="1" width="70%">
 <tr>
