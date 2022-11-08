@@ -6,7 +6,7 @@ Com base nos dados apresentados, catalogamos através de entrevistas pessoas que
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas tabelas que se seguem.
 
-<table border="1" width="50%">
+<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
@@ -32,7 +32,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br>
     <td><b>Hobbies, História: </b><ul><li>Cinema</li><li>Shows</li><li>Teatros</li>
     </td>  
-    <br><br>
 </tr>
 </table>
 
