@@ -10,7 +10,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
-    <td colspan="6" align="right"><b>Marisa Camargo</b> </td>
+    <td colspan="6" align="left"><b>Marisa Camargo</b> </td>
 </tr>
 <tr>
     <td><b>Idade:</b>51 <br><br> <b>Ocupação:</b> funcionária pública. Atua no Ministério Público do Estado de Minas Gerais (vara da criança e adolescente).
