@@ -10,6 +10,7 @@ Os componentes que fazem parte da solução são apresentados na Figura que se s
 
 <img id = "figma" src="../docs/img/Figura_7_Arquitetura_da_Solucao.png" width=1000px>
 Figura 7 - Arquitetura da Solução
+
 <br>
 
 A solução implementada conta com os seguintes módulos:
