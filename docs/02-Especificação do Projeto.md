@@ -221,14 +221,21 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR` 
+           |
 Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.
+
 Valéria Prado | Ter um canal informativo voltado para a sua área de atuação. | Para indicação aos mais diversos públicos por ela atendidos.
+
 Carlos Eduardo | Visualizar dicas de produtos e opções de cardápios.|Ter uma alimentação preventiva, livre de produtos industrializados.
+
 Wesley Souza | Encontrar variedades de receitas para a montagem de marmitas.|Para que mesmo na correria do dia-a-dia possa seguir a dieta.
+
 Suelen Cristina	| Obter conhecimento sobre low carb e opções de alimentos.|	Incluir no ramo do comércio de roupas fitness opções de marmitas low carb.
+
 Daniela Queiroz	| Ter um canal de consulta de quantidade de porções por alimentos na dieta low carb.	| Baixa remuneração para ter o acompanhamento nutricional mensal.
-Davi Rocha	| Encontrar informações sobre alimentação low carb para portadores de diabetes tipo 2.| A dieta low carb para portadores de diabetes tipo 2 melhora o estado nutricional, principalmente em relação a inflamação das células.
+
+Davi Rocha | Encontrar informações sobre alimentação low carb para portadores de diabetes tipo 2.| A dieta low carb para portadores de diabetes tipo 2 melhora o estado nutricional, principalmente em relação a inflamação das células.
 
 ## Requisitos
 
