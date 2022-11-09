@@ -127,7 +127,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table border="1" width="70%">
 
 <tr>
-    <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="700"></th> 
     <td colspan="6" align="left"><b>Suelen Cristina</b></td>
 </tr>
 <tr>
