@@ -248,10 +248,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. | ALTA | 
-|RF-002| O que é comida Low Carb? Quais os Benefícios? | MÉDIA |
-|RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. | ALTA |
-|RF-004| Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. | ALTA |
+| RF-001 |  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. | ALTA | 
+| RF-002 | O que é comida Low Carb? Quais os Benefícios? | MÉDIA |
+| RF-003 | A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. | ALTA |
+| RF-004 | Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. | ALTA |
 
 ### Requisitos não Funcionais
 
