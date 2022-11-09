@@ -104,7 +104,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>29<br><br> <b>Ocupação:</b>Programador. Atua em multinacional como iOS Software Engineer.
  <br><br>     
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams</li><li>Linkedin</li><li>Youtube</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams<ul><li>Linkedin<ul><li>Youtube</li>
     </ul>
   <br><br>       
     </td> 
