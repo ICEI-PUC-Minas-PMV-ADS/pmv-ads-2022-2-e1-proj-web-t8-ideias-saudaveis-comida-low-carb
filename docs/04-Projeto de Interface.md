@@ -13,10 +13,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o *ambiente figma do projeto.
 
-<img src >
-
-<img src="Figura_2_Fluxo_de_telas_do_usuario.png" alt="fluxo dos usuários>
- Figura 2
+ <img id = "figma" src="../docs/img/Figura_2_Fluxo_de_telas_do_usuario.png" width=1000px>
+ Figura 1
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
