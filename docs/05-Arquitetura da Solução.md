@@ -9,9 +9,9 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
 <img id = "figma" src="../docs/img/Figura_7_Arquitetura_da_Solucao.png" width=1000px>
-Figura 7 - Arquitetura da Solução
+Figura 7 - Arquitetura da Solução <br>
 
-<br>
+<br><br>
 
 A solução implementada conta com os seguintes módulos:
 
