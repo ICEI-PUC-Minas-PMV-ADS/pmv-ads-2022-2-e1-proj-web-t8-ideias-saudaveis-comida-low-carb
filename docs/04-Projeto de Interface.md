@@ -15,7 +15,7 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 
 <img src >
 
-<img src="Figura_2_Fluxo_de_telas_do_usuario.png" width=1000px>
+<img src="Figura_2_Fluxo_de_telas_do_usuario.png" alt="fluxo dos usuários>
  Figura 2
 
 ![Exemplo de UserFlow](img/userflow.jpg)
