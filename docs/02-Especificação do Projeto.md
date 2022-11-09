@@ -67,7 +67,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table border="1" width="70%">
 
 <tr>
-    <th rowspan="2"><img src="./img/Personas/carlosEduardo2.png" width="900"></th> 
+    <th rowspan="2"><img src="./img/Personas/carlosEduardo2.png" width="800"></th> 
     <td colspan="6" align="left"><b>Carlos Eduardo</b></td>
 </tr>
 <tr>
@@ -95,13 +95,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </table>
 
 <table border="1" width="70%">
+
 <tr>
-    <th></th>
-    <td></td>
-</tr>
-<tr>
-    <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Wesley Souza</b></td>
+    <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="1000"></th> 
+    <td colspan="6" align="left"><b>Wesley Souza</b></td>
 </tr>
 <tr>
     <td><b>Idade:</b>29<br><br> <b>Ocupação:</b>Programador. Atua em multinacional como iOS Software Engineer.
@@ -128,13 +125,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </table>
 
 <table border="1" width="70%">
-<tr>
-    <th></th>
-    <td></td>
-</tr>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Suelen Cristina</b></td>
+    <td colspan="6" align="left"><b>Suelen Cristina</b></td>
 </tr>
 <tr>
     <td><b>Idade:</b>49<br><br> <b>Ocupação:</b> Empresária. Atua no comércio de roupas fitness. 
@@ -161,13 +155,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </table>
 
 <table border="1" width="70%">
-<tr>
-    <th></th>
-    <td></td>
-</tr>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/danielaQueiroz.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Daniela Queiroz</b></td>
+    <td colspan="6" align="left"><b>Daniela Queiroz</b></td>
 </tr>
 <tr>
     <td><b>Idade:</b>25<br><br> <b>Ocupação:</b>Educadora física. Atua como personal trainer em academias. 
@@ -194,13 +185,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </table>
 
 <table border="1" width="70%">
-<tr>
-    <th></th>
-    <td></td>
-</tr>
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="900"></th> 
-    <td colspan="2" align="right"><b>Davi Rocha</b></td>
+    <td colspan="6" align="left"><b>Davi Rocha</b></td>
 </tr>
 <tr>
     <td><b>Idade:</b>32<br><br> <b>Ocupação:</b>Jornalista. Atua redator de conteúdo em site de famosos. 
