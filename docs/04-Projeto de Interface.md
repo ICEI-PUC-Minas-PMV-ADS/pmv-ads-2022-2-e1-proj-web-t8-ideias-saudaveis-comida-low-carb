@@ -20,7 +20,7 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 ## Wireframes
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam 3 estruturas básicas relacionadas à sua hierarquia, conforme descrito abaixo: <br> 
-<● Home - apresenta todas as telas e é o local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação).<br>
+● Home - apresenta todas as telas e é o local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação).<br>
 ● Conteúdo de destaque - todas as telas possuem um conteúdo de destaque, identificado por uma imagem e título do conteúdo. Destaca-se pela maior área de ocupação na tela, de aproximadamente 2/3 do seu espaço útil. <br>
 ● Conteúdo secundário - apresenta os elementos de navegação secundária ocupam o espaço lateral restante do grid de ocupação da tela.  
 
