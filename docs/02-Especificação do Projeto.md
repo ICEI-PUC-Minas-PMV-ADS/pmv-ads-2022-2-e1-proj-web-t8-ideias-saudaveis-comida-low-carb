@@ -222,8 +222,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários
 
  |EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`
- 
- <br><br>
+  <br>
  
  Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.
 
