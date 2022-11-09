@@ -15,7 +15,7 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 
  <img id = "figma" src="../docs/img/Figura_2_Fluxo_de_telas_do_usuario.png" width=1000px>
  
- Figura 2 - Fluxo de telas do usuário
+Figura 2 - Fluxo de telas do usuário
 
 ## Wireframes
 
@@ -29,7 +29,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 A Homepage funciona como portal de entrada para as informações do site, contendo a apresentação da logo e um menu fixo de navegação que leva às seções de conteúdo do site, sendo elas: Comida low carb: o que é e benefícios; Alimentos e Saúde preventiva.
 
  <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page.png" width=1000px>
-            Figura 3 - Tela Home-Page 
+Figura 3 - Tela Home-Page 
 
 ## Telas - Seções
 
@@ -47,7 +47,7 @@ As seções, representadas na figura 4 pela tela da seção Cardápios, são for
 A seção conceitua o que é comida low carb e quais os benefícios advindos da mesma.
 
  <img id = "figma" src="../docs/img/Figura_4_Tela_Conceituando.png" width=1000px>
-          Figura 4 - Tela Conceituando
+Figura 4 - Tela Conceituando
 
 ## Tela – Seção Alimentos
 
@@ -56,11 +56,11 @@ Os elementos secundários um campo para escolha de acesso ou aos alimentos que p
 Ao clicar remete ao elementos elencados de acordo com a escolha do usuário.
 
 <img id = "figma" src="../docs/img/Figura_5_Tela_da_Secao_Alimentos.png" width=1000px>
-      Figura 5 - Tela da Seção Alimentos
+Figura 5 - Tela da Seção Alimentos
 
 ## Seção Saúde Preventiva
 
 A seção saúde preventiva possui uma página com caráter informativo sobre o que pode ser evitado com o consumo de alimentos saudáveis.
 
 <img id = "figma" src="../docs/img/Figura_6_Tela_da_Secao_Saude_Preventiva.png" width=1000px>
-     Figura 6 - Tela da Seção Saúde Preventiva
+Figura 6 - Tela da Seção Saúde Preventiva
