@@ -10,6 +10,7 @@ Os componentes que fazem parte da solução são apresentados na Figura que se s
 
 <img id = "figma" src="../docs/img/Figura_7_Arquitetura_da_Solucao.png" width=1000px>
 Figura 7 - Arquitetura da Solução
+<br>
 
 A solução implementada conta com os seguintes módulos:
 
@@ -17,7 +18,18 @@ A solução implementada conta com os seguintes módulos:
 ○	Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que compõem a aplicação. <br>
 ○	Data Base - Os bancos e dados serão mantidos de maneira estática dentro da camada de dados da aplicação. Os dados serão armazenados em formato de JSON. 
 
-Infraestrutura e operação Será utilizado a plataforma GitHub Pages como ambiente de hospedagem. O fluxo de entrega da evolução da aplicação será feito por meio da submissão requisições de modificações do código fonte direcionada via push para repositório remoto da aplicação no GitHub. Dada a aceitação da modificação, o Github gerar uma nova versão e enviara para instancia da aplicação no GitHub Pages. 
+## Hospedagem
+Infraestrutura e operação Será utilizado a plataforma GitHub Pages como ambiente de hospedagem. 
+
+O site é mantido no ambiente da URL: 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t8-ideias-saudaveis-comida-low-carb
+
+O fluxo de entrega da evolução da aplicação será feito por meio da submissão requisições de modificações do código fonte direcionada via push para repositório remoto da aplicação no GitHub. Dada a aceitação da modificação, o Github gerar uma nova versão e enviara para instancia da aplicação no GitHub Pages. 
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 VER COM A SILVIA DAQUI PRA BAIXO:
@@ -61,10 +73,6 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
-
-## Hospedagem
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 > **Links Úteis**:
 >
