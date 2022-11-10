@@ -194,7 +194,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Hobbies, História: </b><ul><li>Filmes</li><li>Leituras</li><li>Viajar</li>
     </td>  
 </ul>
-    <br>
+    
 </tr>
 </table>
 
