@@ -45,16 +45,16 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
     </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Forma física</li><li>Saúde Preventiva</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Mercado Competitivo</li>
     </td>  
 </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
@@ -67,25 +67,25 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>28<br><br> <b>Ocupação:</b> advogado, atua em ações do Direito de família.
- <br><br>     
+ <br>  
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams</li>
     </ul>
-  <br><br>       
+  <br>       
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Saúde Física</li>
     </td>  
 </ul>
-  <br><br>       
+  <br>       
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Cinemas</li><li>Shows</li>
     </td>  
-    <br><br>
+    <br>
 </tr>
 
 <tr>
@@ -94,25 +94,25 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>29<br><br> <b>Ocupação:</b>Programador. Atua em multinacional como iOS Software Engineer.
- <br><br>     
+ <br> 
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Teams</li><li>Linkedin</li><li>Youtube</li>
     </ul>
-  <br><br>       
+  <br>    
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Estilo de trabalho (home office)</li><li>Saúde preventiva</li><li>Forma Física</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Obesidade</li><li>Sedentarismo</li><li>Saúde Mental e Física</li><li>Baixa autoestima</li>
     </td>  
 </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Jogos Virtuais</li><li>Eventos de carros antigos</li>
     </td>  
-    <br><br>
+    <br>
 </tr>
 
 <tr>
@@ -121,25 +121,25 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>49<br><br> <b>Ocupação:</b> Empresária. Atua no comércio de roupas fitness. 
- <br><br>     
+ <br>     
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
     </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Sedentarismo</li><li>Saúde Mental</li>
     </td>  
 </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Assistir Seriados</li><li>Cozinhar</li><li>Viajar</li>
     </td>  
-    <br><br>
+    <br>
 </tr>
 
 <tr>
@@ -148,25 +148,25 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>25<br><br> <b>Ocupação:</b>Educadora física. Atua como personal trainer em academias. 
- <br><br>     
+ <br>  
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtube</li>
     </ul>
-  <br><br>       
+  <br>     
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li><li>Conhecimento</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
     </td>  
 </ul>
-  <br><br>
+  <br>
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
     </td>  
-    <br><br>
+    <br>
 </tr>
 
 <tr>
@@ -175,26 +175,26 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>32<br><br> <b>Ocupação:</b>Jornalista. Atua redator de conteúdo em site de famosos. 
- <br><br>     
+ <br>     
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtuber</li><li>Twitter</li>
     </ul>
-  <br><br>       
+  <br>      
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Saúde</li><li>Forma física</li><li>Connhecimento</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Portador de diabetes tipo 2</li>
     </td>  
 </ul>
-  <br><br>       
+  <br>     
     </td> 
     <br>
     <td><b>Hobbies, História: </b><ul><li>Filmes</li><li>Leituras</li><li>Viajar</li>
     </td>  
 </ul>
-    <br><br>
+    <br>
 </tr>
 </table>
 
