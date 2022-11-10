@@ -43,7 +43,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>33<br><br> <b>Ocupação:</b> nutricionista. Atua em uma academia. Possui um consultório para atendimento direcionado.
  <br>   
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Facebook</li>
     </ul>
   <br>      
     </td> 
