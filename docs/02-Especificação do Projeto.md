@@ -7,7 +7,6 @@ Com base nos dados apresentados, catalogamos através de entrevistas pessoas que
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas tabelas que se seguem.
 
 <table border="1" width="10%">
-
 <tr>
     <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
     <td colspan="6" align="left"><b>Marisa Camargo</b> </td>
@@ -33,7 +32,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Hobbies, História: </b><ul><li>Cinema</li><li>Shows</li><li>Teatros</li>
     </td>  
 </tr>
-
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/valeriaPrado.jpg" width="900"></th> 
@@ -88,7 +86,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <br><br>
 </tr>
 
-
 <tr>
     <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="1500"></th> 
     <td colspan="6" align="left"><b>Wesley Souza</b></td>
@@ -115,7 +112,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
-
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="700"></th> 
