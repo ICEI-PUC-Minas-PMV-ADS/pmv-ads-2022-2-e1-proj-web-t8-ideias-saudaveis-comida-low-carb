@@ -46,10 +46,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>      
     </td> 
-    <br>
+    
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Forma física</li><li>Saúde Preventiva</li>
     </td>  
-    <br>
+    
     <td><b>Frustações: </b><ul><li>Mercado Competitivo</li>
     </td>  
 </ul>
@@ -72,16 +72,16 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>       
     </td> 
-    <br>
+  
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li>
     </td>  
-    <br>
+  
     <td><b>Frustações: </b><ul><li>Saúde Física</li>
     </td>  
 </ul>
   <br>       
     </td> 
-    <br>
+  
     <td><b>Hobbies, História: </b><ul><li>Cinemas</li><li>Shows</li>
     </td>  
     <br>
@@ -99,19 +99,19 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>    
     </td> 
-    <br>
+  
     <td><b>Motivações: </b><ul><li>Estilo de trabalho (home office)</li><li>Saúde preventiva</li><li>Forma Física</li>
     </td>  
-    <br>
+  
     <td><b>Frustações: </b><ul><li>Obesidade</li><li>Sedentarismo</li><li>Saúde Mental e Física</li><li>Baixa autoestima</li>
     </td>  
 </ul>
   <br>      
     </td> 
-    <br>
+    
     <td><b>Hobbies, História: </b><ul><li>Jogos Virtuais</li><li>Eventos de carros antigos</li>
     </td>  
-    <br>
+  
 </tr>
 
 <tr>
@@ -126,19 +126,19 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>      
     </td> 
-    <br>
+    
     <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li>
     </td>  
-    <br>
+  
     <td><b>Frustações: </b><ul><li>Sedentarismo</li><li>Saúde Mental</li>
     </td>  
 </ul>
   <br>      
     </td> 
-    <br>
+    
     <td><b>Hobbies, História: </b><ul><li>Assistir Seriados</li><li>Cozinhar</li><li>Viajar</li>
     </td>  
-    <br>
+    
 </tr>
 
 <tr>
@@ -153,19 +153,19 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>     
     </td> 
-    <br>
+  
     <td><b>Motivações: </b><ul><li>Saúde Preventiva</li><li>Forma física</li><li>Conhecimento</li>
     </td>  
-    <br>
+  
     <td><b>Frustações:</b><ul><li>Falta de Tempo</li><li>Baixa Remuneração</li>
     </td>  
 </ul>
   <br>
     </td> 
-    <br>
+  
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cozinhar</li><li>Viajar</li><li>Dançar</li>
     </td>  
-    <br>
+  
 </tr>
 
 <tr>
@@ -180,16 +180,16 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </ul>
   <br>      
     </td> 
-    <br>
+  
     <td><b>Motivações: </b><ul><li>Saúde</li><li>Forma física</li><li>Connhecimento</li>
     </td>  
-    <br>
+  
     <td><b>Frustações: </b><ul><li>Portador de diabetes tipo 2</li>
     </td>  
 </ul>
   <br>     
     </td> 
-    <br>
+  
     <td><b>Hobbies, História: </b><ul><li>Filmes</li><li>Leituras</li><li>Viajar</li>
     </td>  
 </ul>
