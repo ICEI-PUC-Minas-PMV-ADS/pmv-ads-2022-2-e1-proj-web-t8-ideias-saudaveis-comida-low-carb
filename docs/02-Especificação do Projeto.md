@@ -69,7 +69,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>28<br><br> <b>Ocupação:</b> advogado, atua em ações do Direito de família.
  <br>  
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Teams</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Teams</li>
     </ul>
   <br>       
     </td> 
@@ -123,7 +123,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>49<br><br> <b>Ocupação:</b> Empresária. Atua no comércio de roupas fitness. 
  <br>     
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Facebook</li>
     </ul>
   <br>      
     </td> 
@@ -150,7 +150,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>25<br><br> <b>Ocupação:</b>Educadora física. Atua como personal trainer em academias. 
  <br>  
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtube</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Youtube</li>
     </ul>
   <br>     
     </td> 
@@ -177,7 +177,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Idade:</b>32<br><br> <b>Ocupação:</b>Jornalista. Atua redator de conteúdo em site de famosos. 
  <br>     
     </td> 
-    <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Youtuber</li><li>Twitter</li>
+    <td> <b>Aplicativos:</b> <ul><li>Instagram</li><li>WhatsApp</li><li>Youtuber</li><li>Twitter</li>
     </ul>
   <br>      
     </td> 
