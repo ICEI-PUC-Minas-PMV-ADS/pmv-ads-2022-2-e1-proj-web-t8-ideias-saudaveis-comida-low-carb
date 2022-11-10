@@ -7,6 +7,7 @@ Com base nos dados apresentados, catalogamos através de entrevistas pessoas que
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas tabelas que se seguem.
 
 <table border="1" width="10%">
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/marisaCamargo.png" width="800"></th>
     <td colspan="6" align="left"><b>Marisa Camargo</b> </td>
@@ -33,6 +34,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
 </tr>
 
+
 <tr>
     <th rowspan="2"><img src="./img/Personas/valeriaPrado.jpg" width="900"></th> 
     <td colspan="6" align="left"><b>Valéria Prado</b></td>
@@ -58,6 +60,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
 </tr>
+</table>
+
+<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/carlosEduardo2.png" width="300"></th> 
@@ -85,6 +90,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
+<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="1500"></th> 
@@ -112,6 +120,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
+<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="700"></th> 
@@ -139,6 +150,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
+<table border="1" width="30%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/danielaQueiroz.jpg" width="1000"></th> 
@@ -166,6 +180,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
+</table>
+
+<table border="1" width="30%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="1000"></th> 
@@ -200,57 +217,67 @@ As personas levantadas durante o processo de entendimento do problema são apres
     
 ## Histórias de Usuários
 
-A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários
+Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
- |EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`
-  <br>
- 
- Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|Marisa Camargo
+    
 
-Valéria Prado | Ter um canal informativo voltado para a sua área de atuação. | Para indicação aos mais diversos públicos por ela atendidos.
+Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-Carlos Eduardo | Visualizar dicas de produtos e opções de cardápios.|Ter uma alimentação preventiva, livre de produtos industrializados.
-
-Wesley Souza | Encontrar variedades de receitas para a montagem de marmitas.|Para que mesmo na correria do dia-a-dia possa seguir a dieta.
-
-Suelen Cristina	| Obter conhecimento sobre low carb e opções de alimentos.|	Incluir no ramo do comércio de roupas fitness opções de marmitas low carb.
-
-Daniela Queiroz	| Ter um canal de consulta de quantidade de porções por alimentos na dieta low carb.	| Baixa remuneração para ter o acompanhamento nutricional mensal.
-
-Davi Rocha | Encontrar informações sobre alimentação low carb para portadores de diabetes tipo 2.| A dieta low carb para portadores de diabetes tipo 2 melhora o estado nutricional, principalmente em relação a inflamação das células.
+> **Links Úteis**:
+> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
+> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
+> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
+> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
-A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
-|  ID     | Descrição do Requisito  | Prioridade |
-|-------|-----------------------------------------|----|
-|RF-001|  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. | ALTA | 
-|RF-002| O que é comida Low Carb? Quais os Benefícios? | MÉDIA |
-|RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. | ALTA |
-|RF-004| Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. | ALTA |
 
 ### Requisitos não Funcionais
 
-A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
-
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001|O portal será de domínio público, possibilitando assim uma maior interação do público.|ALTA| 
-|RNF-002| O portal poderá ser visualizado, tanto na versão WEB quanto em aparelhos de celular com sistemas Android e IOS.|ALTA| 
-|RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
+Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+
+- [Requisitos Funcionais
+ (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
+ correspondem a uma funcionalidade que deve estar presente na
+  plataforma (ex: cadastro de usuário).
+- [Requisitos Não Funcionais
+  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
+  correspondem a uma característica técnica, seja de usabilidade,
+  desempenho, confiabilidade, segurança ou outro (ex: suporte a
+  dispositivos iOS e Android).
+Lembre-se que cada requisito deve corresponder à uma e somente uma
+característica alvo da sua solução. Além disso, certifique-se de que
+todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022.|
-|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend|
-|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
+|01| O projeto deverá ser entregue até o final do semestre |
+|02| Não pode ser desenvolvido um módulo de backend        |
 
+
+Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+
+> **Links Úteis**:
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
