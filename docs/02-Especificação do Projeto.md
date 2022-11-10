@@ -33,9 +33,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Hobbies, História: </b><ul><li>Cinema</li><li>Shows</li><li>Teatros</li>
     </td>  
 </tr>
-</table>
 
-<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/valeriaPrado.jpg" width="900"></th> 
