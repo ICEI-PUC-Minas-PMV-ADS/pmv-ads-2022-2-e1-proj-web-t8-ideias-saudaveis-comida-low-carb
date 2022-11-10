@@ -18,12 +18,12 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td> 
        <td><b>Aplicativos:</b> <ul><li>Instagram</li><li>Whatsapp</li><li>Twitter</li>
 </ul>
-  <br><br>       
+  <br>    
     </td> 
     <br>
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li><li>Aplicação do Direito</li>
     </td>  
-    <br><br>
+    <br>
     <td><b>Frustações: </b><ul><li>Obesidade</li><li>Baixa remuneração</li><li>Falta de reconhecimento</li>
     </td>  
 </ul>
@@ -41,7 +41,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>33<br><br> <b>Ocupação:</b> nutricionista. Atua em uma academia. Possui um consultório para atendimento direcionado.
- <br><br>     
+ <br>   
     </td> 
     <td> <b>Aplicativos:</b> <ul><li>Instagram<ul><li>WhatsApp<ul><li>Facebook</li>
     </ul>
