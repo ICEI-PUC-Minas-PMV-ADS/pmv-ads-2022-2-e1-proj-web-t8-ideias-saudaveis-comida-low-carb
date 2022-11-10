@@ -60,9 +60,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
 </tr>
-</table>
-
-<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/carlosEduardo2.png" width="300"></th> 
@@ -90,9 +87,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
-</table>
 
-<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/wesleySouza.jpg" width="1500"></th> 
@@ -120,9 +115,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
-</table>
 
-<table border="1" width="70%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/suelenCristina.jpg" width="700"></th> 
@@ -150,9 +143,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
-</table>
-
-<table border="1" width="30%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/danielaQueiroz.jpg" width="1000"></th> 
@@ -180,9 +170,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
     </td>  
     <br><br>
 </tr>
-</table>
-
-<table border="1" width="30%">
 
 <tr>
     <th rowspan="2"><img src="./img/Personas/daviRocha.jpg" width="1000"></th> 
