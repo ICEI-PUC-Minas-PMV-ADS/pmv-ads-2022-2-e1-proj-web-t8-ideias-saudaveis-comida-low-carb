@@ -14,7 +14,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </tr>
 <tr>
     <td><b>Idade:</b>51 <br><br> <b>Ocupação:</b> funcionária pública. Atua no Ministério Público do Estado de Minas Gerais (vara da criança e adolescente).
- <br><br>       
+ <br>      
     </td> 
        <td><b>Aplicativos:</b> <ul><li>Instagram</li><li>Whatsapp</li><li>Twitter</li>
 </ul>
