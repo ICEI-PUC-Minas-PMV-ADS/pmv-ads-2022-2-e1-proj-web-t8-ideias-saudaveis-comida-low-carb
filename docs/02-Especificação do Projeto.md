@@ -20,10 +20,10 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </ul>
   <br>    
     </td> 
-    <br>
+    
     <td><b>Motivações: </b><ul><li>Trabalho</li><li>Família</li><li>Aplicação do Direito</li>
     </td>  
-    <br>
+    
     <td><b>Frustações: </b><ul><li>Obesidade</li><li>Baixa remuneração</li><li>Falta de reconhecimento</li>
     </td>  
 </ul>
@@ -55,7 +55,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </ul>
   <br>      
     </td> 
-    <br>
+    
     <td><b>Hobbies, História: </b><ul><li>Praticar Esportes</li><li>Cinemas</li><li>Shows</li>
     </td>  
 </tr>
