@@ -29,7 +29,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
 </ul>
   <br>      
     </td> 
-    <br>
     <td><b>Hobbies, História: </b><ul><li>Cinema</li><li>Shows</li><li>Teatros</li>
     </td>  
 </tr>
