@@ -1,4 +1,6 @@
-<img id = "logo" src="../docs/img/Modelologo.png">
+<body>
+<img id = "logo" src="../docs/img/Modelologo.png" width=1000px>
+</body>
 
 # Ideias Saudáveis Comida Low Carb
 
