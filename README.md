@@ -1,5 +1,3 @@
-<img src="Modelologo.png" alt="logo portal" width=100x>
-
 # Ideias Saudáveis Comida Low Carb
 
 `CURSO`
