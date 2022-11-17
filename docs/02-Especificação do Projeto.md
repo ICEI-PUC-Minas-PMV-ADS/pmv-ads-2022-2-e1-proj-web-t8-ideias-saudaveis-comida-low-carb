@@ -221,7 +221,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários
 
- |EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`
+|EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`
   <br>
  
  Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.
@@ -246,8 +246,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-|  ID    | Descrição do Requisito  | Prioridade |
-|-------|-----------------------------------------|----|
+|  ID  | Descrição do Requisito  | Prioridade |
+|------|--------------------------------------|----|
 |RF-001|  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. | ALTA | 
 |RF-002| O que é comida Low Carb? Quais os Benefícios? | MÉDIA |
 |RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. | ALTA |
@@ -257,8 +257,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+| ID   | Descrição do Requisito  |Prioridade |
+|------|-------------------------|-----------|
 |RNF-001|O portal será de domínio público, possibilitando assim uma maior interação do público.|ALTA| 
 |RNF-002| O portal poderá ser visualizado, tanto na versão WEB quanto em aparelhos de celular com sistemas Android e IOS.|ALTA| 
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA|
