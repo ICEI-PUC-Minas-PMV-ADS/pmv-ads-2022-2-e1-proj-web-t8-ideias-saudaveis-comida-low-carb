@@ -243,18 +243,17 @@ Davi Rocha | Encontrar informações sobre alimentação low carb para portadore
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
-
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 <br>
 |ID  | Descrição do Requisito  | Prioridade |
 |------|--------------------------------------|----|
-|RF-001|  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. | ALTA | 
-|RF-002| O que é comida Low Carb? Quais os Benefícios? | MÉDIA |
-|RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. | ALTA |
-|RF-004| Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. | ALTA |
+|RF-001|  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. |ALTA| 
+|RF-002| O que é comida Low Carb? Quais os Benefícios?|MÉDIA|
+|RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. |ALTA|
+|RF-004| Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. |ALTA|
 <br>
-### Requisitos não Funcionais
 
+### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 <br>
 |ID |  Descrição do Requisito  |Prioridade |
@@ -265,7 +264,6 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA|
 
 ## Restrições
-
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 <br>
 |ID| Restrição                                             |
