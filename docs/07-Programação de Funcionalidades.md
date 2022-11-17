@@ -1,15 +1,64 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../src/css/home.css">
+    <title>Ideias Saudáveis - Comida Low Carb</title>
+</head>
+<body>
+    <div class="header">
+        <img id = "logop" src="../docs/img/Modelologo.png" width=100px>
+    </div>
+    <div id="section1">
+            <p>
+            <h3> <a href="conceituando.html">Low Carb</a></h3>
+            <h4> O que é</h4>
+            <h4> Beneficios</h4>
+            </p>
+    </div>
+    <div id="section2">
+            <p>
+                <h3> <a href="alimentos.html">Alimentos</a></h3>
+            <h4> O que pode ser consumido</h4>
+            <h4> O que não pode ser consumido</h4>
+            </p>
+    </div>
+    <div id="section3">
+            <p>
+            <h3> Cardápios</h3>
+            <h4> Café da manhã</h4>
+            <h4> Lanche da manhã</h4>
+            <h4> Almoço</h4>
+            <h4> Lanche da tarde</h4>
+            <h4> Jantar</h4>
+            </p>
+    </div>
+    <div id="section4">
+            <p>
+            <h3> Saúde preventiva</h3>
+            <h4> Prevenção de doenças</h4>
+            </p>
+    </div>
+    <div id="section5">
+            <p>
+            <h3> Matérias</h3>
+            <h4> Depoimentos</h4>
+            <h4> Notícias</h4>
+            </p>
+    </div>
+    <div id="section6">
+            <p>
+            <h3> Fale conosco</h4>
+                <h4> substituir por icones</h4>
+            </p>
+    </div>
+        <div id="col">
+            <img id = "logo" src="../docs/img/Modelologo.png" width=600px>            
+    </div>   
+     
+    
+</body>
+</html>
