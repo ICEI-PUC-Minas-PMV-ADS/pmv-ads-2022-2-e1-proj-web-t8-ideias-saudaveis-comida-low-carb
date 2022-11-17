@@ -58,10 +58,7 @@
         <div id="col">
             <img id = "logo" src="../docs/img/Modelologo.png" width=600px>            
     </div>   
-     
-    
+
+
 </body>
-</html>
-
-
-testeeee
+</html
