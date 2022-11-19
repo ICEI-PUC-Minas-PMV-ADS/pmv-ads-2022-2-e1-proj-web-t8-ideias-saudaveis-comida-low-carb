@@ -51,11 +51,10 @@ Figura 4 - Tela Conceituando
 
 ## Tela – Seção Alimentos
 
-A seção alimentos possui na sua barra de título um campo de pesquisa que permite ao usuário procurar o alimento pelo nome. 
-Os elementos secundários um campo para escolha de acesso ou aos alimentos que podem e o que não podem ser consumidos 
-Ao clicar remete ao elementos elencados de acordo com a escolha do usuário.
+A seção alimentos possui um campo de pesquisa que permite ao usuário procurar os alimentos que podem e que não podem ser consumidos em uma dieta Low Carb.
+Ao clicar remete ao elementos elencados de acordo com a escolha do usuário (Pode e Não pode).
 
-<img id = "figma" src="../docs/img/Figura_5_Tela_da_Secao_Alimentos.png" width=1000px>
+<img id = "figma" src="../docs/img/Figura_5_Tela_da_Secao_Alimentos_atualizada.png" width=1000px>
 Figura 5 - Tela da Seção Alimentos
 
 ## Seção Saúde Preventiva
