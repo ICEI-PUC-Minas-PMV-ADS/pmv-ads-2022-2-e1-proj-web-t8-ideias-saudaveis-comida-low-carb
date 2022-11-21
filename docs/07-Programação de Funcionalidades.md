@@ -2,7 +2,7 @@
 
 Nesta seção, será apresentada as telas desenvolvidas de acordo com a especificação de cada Requisito Funcional:
 
-Tela - Home Page
+ <strong>Tela - Home Page</strong>
 
 A tela principal apresenta de modo geral as espefificações do consumo da Comida Low Carb, seus benefícios, indicação de alimentos e como uma dieta preventiva pode acarretar inúmeros benefífios à saúde.  
 
@@ -13,13 +13,14 @@ Figura 1 - Tela Home-Page <br>
 
 <strong> Requisitos atendidos:</strong>
 
-● RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.
+RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.
 
 <strong>Artefatos da funcionalidade</strong>
 <br>
-● index.html<br>
-● Modelologo.png <br>
-● style.css
+<ul>
+<li>index.html</li><br>
+<li>Modelologo.png </li><br>
+<li>style.css</li>
 
 <strong>Estrutura de Dados</strong>
 <br>
@@ -93,3 +94,9 @@ Figura 1 - Tela Home-Page <br>
     
 </body>
 </html>
+
+
+<strong>Instruções de acesso</strong><br>
+
+1º. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5501/src/home.html
+2º. A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
