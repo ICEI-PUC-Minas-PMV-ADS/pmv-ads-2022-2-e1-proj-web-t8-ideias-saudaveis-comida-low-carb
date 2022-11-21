@@ -28,7 +28,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 A Homepage funciona como portal de entrada para as informações do site, contendo a apresentação da logo e um menu fixo de navegação que leva às seções de conteúdo do site, sendo elas: Comida low carb: o que é e benefícios; Alimentos e Saúde preventiva.
 
- <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_revogado.png" width=1000px>
+ <img id = "figma" src="../docs/img/FFigura_3_Tela_Home_Page_revogado.png" width=1000px>
 Figura 3 - Tela Home-Page 
 
 ## Telas - Seções
