@@ -13,7 +13,7 @@ Figura 1 - Tela Home-Page
 
 <strong> Requisitos atendidos:</strong>
 
-<br>
+<br><br>
 
 ● RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.
 
