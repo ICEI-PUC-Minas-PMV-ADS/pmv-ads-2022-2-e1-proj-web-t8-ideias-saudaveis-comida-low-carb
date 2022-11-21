@@ -7,13 +7,13 @@ Tela - Home Page
 A tela principal apresenta de modo geral as espefificações do consumo da Comida Low Carb, seus benefícios, indicação de alimentos e como uma dieta preventiva pode acarretar inúmeros benefífios à saúde.  
 
  <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_revogado.png" width=1000px>
-Figura 1 - Tela Home-Page 
+Figura 1 - Tela Home-Page <br>
 
 <br>
 
 <strong> Requisitos atendidos:</strong>
 
-<br><br>
+<br>
 
 ● RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.
 
