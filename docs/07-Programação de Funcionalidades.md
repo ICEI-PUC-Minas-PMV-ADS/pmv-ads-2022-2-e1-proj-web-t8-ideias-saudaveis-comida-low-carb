@@ -8,18 +8,18 @@ A tela principal apresenta de modo geral as espefificações do consumo da Comid
 
  <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_revogado.png" width=1000px>
 Figura 1 - Tela Home-Page 
-
+<br>
 Requisitos atendidos:
 
 ● RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.
 
-Artefatos da funcionalidade
-● index.html
-● Modelologo.png
+Artefatos da funcionalidade<br>
+● index.html<br>
+● Modelologo.png <br>
 ● style.css
 
 Estrutura de Dados
-
+<br>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
