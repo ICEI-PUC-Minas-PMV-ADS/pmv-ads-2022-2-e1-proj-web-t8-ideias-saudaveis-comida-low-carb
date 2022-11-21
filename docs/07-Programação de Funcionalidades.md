@@ -20,7 +20,7 @@ RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 
 <ul>
 <li>index.html</li><br>
 <li>Modelologo.png </li><br>
-<li>style.css</li>
+<li>style.css</li><br>
 
 <strong>Estrutura de Dados</strong>
 <br>
@@ -98,5 +98,5 @@ RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 
 
 <strong>Instruções de acesso</strong><br>
 
-1º. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5501/src/home.html
+1º. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5501/src/home.html<br>
 2º. A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
