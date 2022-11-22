@@ -161,7 +161,7 @@ RF-02: O que é comida Low Carb? Quais os Benefícios?
 A tela descreve alguns alimentos essenciais para uma dieta Low carb, bem como aqueles que NÃO podem compor o quadro de alimentos aptos para ingestão. 
 
  <img id = "figma" src="../docs/img/Figura_3_Tela_da_Secao_Alimentos_atualizada.png" width=1000px>
-Figura 2 - Tela Alimentos <br>
+Figura 3 - Tela Alimentos <br>
 
 <br>
 
@@ -207,6 +207,63 @@ permitir ao usuário localizar um alimento por nome.
         
             <p> EM CONSTRUÇÃO </p>
        
+    </div>
+
+</body>
+
+</html>
+
+
+<strong>Tela - Saúde Preventiva</strong>
+
+A tela descreve a contribuição da Medicina Preventiva no combate à doenças ligadas ao consumo de alimentos nada saudáveis.
+
+ <img id = "figma" src="../docs/img/Figura_4_Tela_da_Secao_Saude_Preventiva.png" width=1000px>
+Figura 4 - Tela Saúde Preventiva <br>
+
+<br>
+
+<strong> Requisitos atendidos:</strong>
+
+RF-04: Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis.
+
+
+<strong>Artefatos da funcionalidade</strong>
+<br>
+<ul>
+<li>index.html</li><br>
+<li>Modelologo.png </li><br>
+<li>style.css</li><br>
+
+<strong>Estrutura de Dados</strong>
+<br>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../src/css/conteudo.css">
+    <title>Saúde preventiva</title>
+
+    <div class="header">
+        <img id = "logop" src="../docs/img/Modelologo.png" width=100px>
+    </div>
+
+    <div id="titulo">
+        
+            <h1>SAÚDE PREVENTIVA</h1>
+        
+    </div>
+
+</head>
+
+<body>
+
+    <div id="enconstrucao">
+    
+            <p> EM CONSTRUÇÃO </p>
+
     </div>
 
 </body>
