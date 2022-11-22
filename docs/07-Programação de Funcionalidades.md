@@ -105,7 +105,7 @@ RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 
 
 A tela conceitua o que seria uma alimentação baseada na dieta Low Carb, assim como descreve alguns benefícios advindos dessa prática.  
 
- <img id = "figma" src="../docs/img/Figura_2_Tela_Conceituando.png" width=900px>
+ <img id = "figma" src="../docs/img/Figura_2_Tela_Conceituando.png" width=800px><br>
 Figura 2 - Tela Conceituando <br>
 
 <br>
@@ -160,7 +160,7 @@ RF-02: O que é comida Low Carb? Quais os Benefícios?
 
 A tela descreve alguns alimentos essenciais para uma dieta Low carb, bem como aqueles que NÃO podem compor o quadro de alimentos aptos para ingestão. 
 
- <img id = "figma" src="../docs/img/Figura_3_Tela_da_Secao_Alimentos_atualizada.png" width=1000px>
+ <img id = "figma" src="../docs/img/Figura_3_Tela_da_Secao_Alimentos_atualizada.png" width=800px><br>
 Figura 3 - Tela Alimentos <br>
 
 <br>
@@ -218,7 +218,7 @@ permitir ao usuário localizar um alimento por nome.
 
 A tela descreve a contribuição da Medicina Preventiva no combate à doenças ligadas ao consumo de alimentos nada saudáveis.
 
- <img id = "figma" src="../docs/img/Figura_4_Tela_da_Secao_Saude_Preventiva.png" width=1000px>
+ <img id = "figma" src="../docs/img/Figura_4_Tela_da_Secao_Saude_Preventiva.png" width=800px><br>
 Figura 4 - Tela Saúde Preventiva <br>
 
 <br>
