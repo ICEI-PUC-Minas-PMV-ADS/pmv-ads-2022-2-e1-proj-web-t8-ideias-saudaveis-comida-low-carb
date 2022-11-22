@@ -105,7 +105,7 @@ RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 
 
 A tela conceitua o que seria uma alimentação baseada na dieta Low Carb, assim como descreve alguns benefícios advindos dessa prática.  
 
- <img id = "figma" src="../docs/img/Figura_2_Tela_Conceituando.png" width=1000px>
+ <img id = "figma" src="../docs/img/Figura_2_Tela_Conceituando.png" width=900px>
 Figura 2 - Tela Conceituando <br>
 
 <br>
