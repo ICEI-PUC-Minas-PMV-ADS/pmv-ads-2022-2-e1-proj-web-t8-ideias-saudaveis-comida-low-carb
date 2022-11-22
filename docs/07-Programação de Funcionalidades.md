@@ -99,4 +99,116 @@ RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 
 <strong>Instruções de acesso</strong><br>
 
 1º. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5501/src/home.html<br>
-2º. A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
+2º. A tela home é a primeira funcionalidade exibida pelo aplicativo.
+
+<strong>Tela - Comida Low Carb</strong>
+
+A tela conceitua o que seria uma alimentação baseada na dieta Low Carb, assim como descreve alguns benefícios advindos dessa prática.  
+
+ <img id = "figma" src="../docs/img/Figura_2_Tela_Conceituando.png" width=1000px>
+Figura 2 - Tela Conceituando <br>
+
+<br>
+
+<strong> Requisitos atendidos:</strong>
+
+RF-02: O que é comida Low Carb? Quais os Benefícios?
+
+<strong>Artefatos da funcionalidade</strong>
+<br>
+<ul>
+<li>index.html</li><br>
+<li>Modelologo.png </li><br>
+<li>style.css</li><br>
+
+<strong>Estrutura de Dados</strong>
+<br>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../src/css/conteudo.css">
+    <title>Conceituando</title>
+
+    <div class="header">
+        <img id = "logop" src="../docs/img/Modelologo.png" width=100px>
+    </div>
+
+    <div id="titulo">
+        
+            <h1> CONCEITUANDO</h1>
+        
+    </div>
+
+</head>
+
+<body>
+
+    <div id="enconstrucao">
+        
+            <p> EM CONSTRUÇÃO </p>
+        
+    </div>
+
+</body>
+
+</html>
+
+<strong>Tela - Alimentos</strong>
+
+A tela descreve alguns alimentos essenciais para uma dieta Low carb, bem como aqueles que NÃO podem compor o quadro de alimentos aptos para ingestão. 
+
+ <img id = "figma" src="../docs/img/Figura_3_Tela_da_Secao_Alimentos_atualizada.png" width=1000px>
+Figura 2 - Tela Alimentos <br>
+
+<br>
+
+<strong> Requisitos atendidos:</strong>
+
+RF-03: A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para
+permitir ao usuário localizar um alimento por nome.
+
+
+<strong>Artefatos da funcionalidade</strong>
+<br>
+<ul>
+<li>index.html</li><br>
+<li>Modelologo.png </li><br>
+<li>style.css</li><br>
+
+<strong>Estrutura de Dados</strong>
+<br>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../src/css/conteudo.css">
+    <title>alimentos</title>
+
+    <div class="header">
+        <img id = "logop" src="../docs/img/Modelologo.png" width=100px>
+    </div>
+
+    <div id="titulo">
+        
+            <h1>ALIMENTOS</h1>
+    
+    </div>
+
+</head>
+
+<body>
+
+    <div id="enconstrucao">
+        
+            <p> EM CONSTRUÇÃO </p>
+       
+    </div>
+
+</body>
+
+</html>
