@@ -1,0 +1,13 @@
+
+
+#descricao{
+    display: inline;
+    width: fit-content;
+    float:left;
+    position: fixed;
+    left: 20%;
+    top: 15%;
+   
+    font-family: Helvetica;
+    font-size: 24px;
+}
