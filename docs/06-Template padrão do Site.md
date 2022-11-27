@@ -8,8 +8,8 @@ O template criado contém os seguintes layouts:
 
 <li>Home</li>
 <li>Tela Conceituando</li>
-<li>Alimentos</li>
-<li>Saúde Preventiva</li>
+<li>Tela Alimentos</li>
+<li>Tela Saúde Preventiva</li>
                                             
 </ul>
 
@@ -18,6 +18,7 @@ O template criado contém os seguintes layouts:
 
  <ul>
 
-A tela principal contempla acesso aos demais ambientes do site através de um link. O usuário pré-visualiza as informações através da barra e com um clic acessa as informações. 
+<p> A tela principal contempla acesso aos demais ambientes do site através de um link. O usuário pré-visualiza as informações através da barra e com um clic acessa as informações. 
+</p>
 
-<img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_prototipo.png" width=1000px>
+<img id = "figma" src="../docs/img/template_padrao_home.png" width=1000px>
