@@ -54,7 +54,7 @@ Figura 4 - Tela Conceituando
 A seção alimentos possui um campo de pesquisa que permite ao usuário procurar os alimentos que podem e que não podem ser consumidos em uma dieta Low Carb.
 Ao clicar remete ao elementos elencados de acordo com a escolha do usuário (Pode e Não pode).
 
-<img id = "figma" src="../docs/img/Figura_5_Tela_da_Secao_Alimentos_atualizada.png" width=1000px>
+<img id = "figma" src="../docs/img/protitipo_pode_nao_pode.png" width=1000px>
 Figura 5 - Tela da Seção Alimentos
 
 ## Seção Saúde Preventiva
