@@ -264,6 +264,7 @@ permitir ao usuário localizar um alimento por nome.
             <img id = "logop" src="../docs/img/Modelologo.png">
             <h4> <a href="conceituando.html">Low Carb</a></h4>
             <ol class="lista-sidemenu">
+                
                 <li>O que é?</li>
                 <li>Beneficios</li>
             </ol>
@@ -297,10 +298,9 @@ permitir ao usuário localizar um alimento por nome.
         <div id="descricao">
         <ul>
         <img src="imagem/pode.png"alt=saude" width="50px"> <br> 
-            
-<h4>O que PODE?</h4> 
-                                
-<div> Legumes (mas não todos): </div>
+    <h4>O que PODE?</h4>
+
+    <div> Legumes (mas não todos): </div>
     <li> Melhores: Abobrinha, brócolis, couve-flor, acelga, tomate, cereja, couve, agrião, aspargos, beringela, espinafre, pepino, cebola, chuchu, vagem, rúcula, escarola, alho-poró e alface.               
     </li>
     <div>Frutas (mas não todos!): .</div>
@@ -313,6 +313,7 @@ permitir ao usuário localizar um alimento por nome.
     <li> Melhores: Azeite, oleaginosas e Abacate.       
     </li>
    <br>
+
     <img src="imagem/nao_pode.png"alt= pode consumir width="50px">  
     <h4> O que NÃO PODE? </h4>
                     <ul>
@@ -321,7 +322,7 @@ permitir ao usuário localizar um alimento por nome.
                         <li>Alimentos light, ou seja, com baixo teor de gordura, pois neles na maioria das vezes se adiciona açúcares.</li>
                         <li>Alimentos industrializados e processados em geral, ricos em gordura trans.</li>
                         <li>Álcool.</li>
-                        <li>Nas versões mais radicais também estão proibidos os grãos e cereais.</li>
+                        <li>Nas versões mais radicais também estão proibidos os grãos e cereais.</li>                        
 </ul>
                 </li>
             </ul>
