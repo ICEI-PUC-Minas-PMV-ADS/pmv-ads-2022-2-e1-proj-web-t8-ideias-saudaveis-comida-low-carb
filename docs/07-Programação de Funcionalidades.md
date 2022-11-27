@@ -225,7 +225,7 @@ RF-02: O que é comida Low Carb? Quais os Benefícios?
 
 A tela descreve alguns alimentos essenciais para uma dieta Low carb, bem como aqueles que NÃO podem compor o quadro de alimentos aptos para ingestão. 
 
- <img id = "figma" src="../docs/img/protitipo_pode_nao_pode.png.png" width=900px><br>
+ <img id = "figma" src="../docs/img/protitipo_pode_nao_pode.png" width=900px><br>
 Figura 3 - Tela Alimentos <br>
 
 <br>
