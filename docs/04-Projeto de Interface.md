@@ -28,7 +28,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 A Homepage funciona como portal de entrada para as informações do site, contendo a apresentação da logo e um menu fixo de navegação que leva às seções de conteúdo do site, sendo elas: Comida low carb: o que é e benefícios; Alimentos e Saúde preventiva.
 
- <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_revogado.png" width=1000px>
+ <img id = "figma" src="../docs/img/Figura_3_Tela_Home_Page_prototipo.png" width=1000px>
 Figura 3 - Tela Home-Page 
 
 ## Telas - Seções
@@ -51,7 +51,7 @@ Figura 4 - Tela Conceituando
 
 ## Tela – Seção Alimentos
 
-A seção alimentos possui um campo de pesquisa que permite ao usuário procurar os alimentos que podem e que não podem ser consumidos em uma dieta Low Carb.
+A seção alimentos permite ao usuário conhecer os principais alimentos que podem e que não podem ser consumidos em uma dieta Low Carb.
 Ao clicar remete ao elementos elencados de acordo com a escolha do usuário (Pode e Não pode).
 
 <img id = "figma" src="../docs/img/protitipo_pode_nao_pode.png" width=1000px>
@@ -61,7 +61,7 @@ Figura 5 - Tela da Seção Alimentos
 
 A seção saúde preventiva possui uma página com caráter informativo sobre o que pode ser evitado com o consumo de alimentos saudáveis.
 
-<img id = "figma" src="../docs/img/Figura_6_Tela_da_Secao_Saude_Preventiva.png" width=1000px>
+<img id = "figma" src="../docs/img/Figura_6_Tela_da_Secao_Saude_Preventiva_protótipo.png" width=1000px>
 Figura 6 - Tela da Seção Saúde Preventiva
 
 
