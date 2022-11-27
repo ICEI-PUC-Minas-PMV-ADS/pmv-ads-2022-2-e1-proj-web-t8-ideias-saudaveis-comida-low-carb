@@ -360,7 +360,7 @@ permitir ao usuário localizar um alimento por nome.
 
 A tela descreve a contribuição da Medicina Preventiva no combate à doenças ligadas ao consumo de alimentos nada saudáveis.
 
- <img id = "figma" src="../docs/img/Figura_6_Tela_da_Secao_Saude_Preventiva_protótipo.png.png" width=800px><br>
+ <img id = "figma" src="../docs/img/Figura_6_Tela_da_Secao_Saude_Preventiva_protótipo.png" width=800px><br>
 Figura 4 - Tela Saúde Preventiva <br>
 
 <br>
