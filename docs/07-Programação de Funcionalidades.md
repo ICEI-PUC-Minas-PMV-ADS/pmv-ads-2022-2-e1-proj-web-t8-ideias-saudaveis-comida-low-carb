@@ -261,21 +261,17 @@ permitir ao usuário localizar um alimento por nome.
 <body>
     <div class="sidemenu">
         <div id="section">
-
             <img id = "logop" src="../docs/img/Modelologo.png">
-
             <h4> <a href="conceituando.html">Low Carb</a></h4>
             <ol class="lista-sidemenu">
                 <li>O que é?</li>
                 <li>Beneficios</li>
             </ol>
-
             <h3> <a href="alimentos.html">Alimentos</a></h3>
             <ol class="lista-sidemenu">
                 <li>O que pode?</li>
                 <li>O que não pode?</li>
             </ol>
-
             <h3> Cardápios</h3>
             <ol class="lista-sidemenu">
                 <li>Café da manhã</li>
@@ -284,30 +280,25 @@ permitir ao usuário localizar um alimento por nome.
                 <li>Lanche da tarde</li>
                 <li>Jantar</li>
             </ol>
-
             <h4> <a href="saudeprev.html">Saúde preventiva</a></h4>
             <ol class="lista-sidemenu">
                 <li> Prevenção de doenças</li>
             </ol>
-
             <h4> Matérias</h4>
             <ol class="lista-sidemenu">
                 <li>Depoimentos</li>
                 <li>Notícias</li>
             </ol>
-
             <h4> Fale conosco</h4>
-                
-        </div>
     </div>
-
+    </div>
     <div class="body-div">
         <h1 class="titulo">ALIMENTOS</h1>
         <div id="descricao">
         <ul>
         <img src="imagem/pode.png"alt=saude" width="50px"> <br> 
-                
-                <h4>O que PODE?</h4> 
+            
+<h4>O que PODE?</h4> 
                                 
 <div> Legumes (mas não todos): </div>
     <li> Melhores: Abobrinha, brócolis, couve-flor, acelga, tomate, cereja, couve, agrião, aspargos, beringela, espinafre, pepino, cebola, chuchu, vagem, rúcula, escarola, alho-poró e alface.               
@@ -322,9 +313,7 @@ permitir ao usuário localizar um alimento por nome.
     <li> Melhores: Azeite, oleaginosas e Abacate.       
     </li>
    <br>
-
     <img src="imagem/nao_pode.png"alt= pode consumir width="50px">  
-
     <h4> O que NÃO PODE? </h4>
                     <ul>
             Alimentos feitos com qualquer farinha mesmo que integral como:  <br><br>
@@ -333,12 +322,11 @@ permitir ao usuário localizar um alimento por nome.
                         <li>Alimentos industrializados e processados em geral, ricos em gordura trans.</li>
                         <li>Álcool.</li>
                         <li>Nas versões mais radicais também estão proibidos os grãos e cereais.</li>
-                        
-                    </ul>
+</ul>
                 </li>
             </ul>
         </div>
-    </div>
+</div>
 
 <strong>Estrutura de Dados - CSS</strong>
 
