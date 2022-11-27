@@ -255,12 +255,14 @@ permitir ao usuário localizar um alimento por nome.
     <link rel="stylesheet" href="css/shared.css">
     <script src="script.js"></script>
     <title>Alimentos</title>
+    
     <a href="home.html">Home</a>
 </head>
 
 <body>
     <div class="sidemenu">
         <div id="section">
+
             <img id = "logop" src="../docs/img/Modelologo.png">
             <h4> <a href="conceituando.html">Low Carb</a></h4>
             <ol class="lista-sidemenu">
