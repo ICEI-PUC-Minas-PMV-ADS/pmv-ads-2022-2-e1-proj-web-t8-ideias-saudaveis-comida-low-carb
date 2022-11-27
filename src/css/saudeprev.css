@@ -1,5 +1,11 @@
 .text{
-    top: 20%;
-    left: 20%;
-    position: relative;
+    display: inline;
+    width: fit-content;
+    float:left;
+    position: fixed;
+    left: 18%;
+    top: 16%;
+    font-family: Helvetica;
+    font-size: 18px;
+    
 }

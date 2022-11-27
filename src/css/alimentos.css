@@ -1,0 +1,10 @@
+#descricao{
+    display: inline;
+    width: fit-content;
+    float:left;
+    position: fixed;
+    left: 20%;
+    top: 1%;
+    font-family: Helvetica;
+    font-size: 17px;
+}
