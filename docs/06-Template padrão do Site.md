@@ -22,3 +22,6 @@ O template criado contém os seguintes layouts:
 </p>
 
 <img id = "figma" src="../docs/img/template_padrao_home.png" width=1000px>
+
+
+teste
