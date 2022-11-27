@@ -322,11 +322,13 @@ permitir ao usuário localizar um alimento por nome.
     <li> Melhores: Azeite, oleaginosas e Abacate.       
     </li>
    <br>
-    <img src="imagem/nao_pode.png"alt= pode consumir width="50px">                     
+
+    <img src="imagem/nao_pode.png"alt= pode consumir width="50px">  
+
     <h4> O que NÃO PODE? </h4>
                     <ul>
             Alimentos feitos com qualquer farinha mesmo que integral como:  <br><br>
-                                   <li>Pães, biscoitos e bolos</li>
+                        <li>Pães, biscoitos e bolos</li>
                         <li>Alimentos light, ou seja, com baixo teor de gordura, pois neles na maioria das vezes se adiciona açúcares.</li>
                         <li>Alimentos industrializados e processados em geral, ricos em gordura trans.</li>
                         <li>Álcool.</li>
