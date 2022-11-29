@@ -4,7 +4,7 @@
     height: 100vh;
     float: right;
     background-image: 
-    url("/src/imagem/imagem01.png");
+    url("../../src/imagem/imagem01.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
