@@ -1,19 +1,24 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Segue para apreciação, o fluxo de funcionalidades baseadas nas telas produzidas e com os testes devidamente aplicados:   
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Podemos visualizar abaixo os cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
+ <img id = "figma" src="../docs/img/tela_plano_de_testes.png" width=1000px>
+
+<strong> Cenários:<strong>
+
+1. Tela Home: Tela principal de acesso a todas as telas/funcionalidades do portal. Ao clicar no link, o usuário é direcionado a ambientes específicos focados em determinado assunto. 
+
+2. Tela Low Carb: Ao clicar em Low Carb na tela home, o usuário é direcionado a tela especifica com os conceitos de Comida Low Carb e os benefícios à saúde na ingestão desses alimentos. Nesta tela o usuário tem a opção de migrar para outras telas do portal (Alimentos e Saúde Preventiva) ou retornar para a home, clicando no logomarca disposta no cabeçalho da página. 
+
+3. Tela Alimentos: Ao clicar em Alimentos na tela home, o usuário é direcionado a uma tela exemplificativa contendo os principais alimentos que podem e não podem fazer parte de uma dieta Low Carb. Nesta tela o usuário tem a opção de migrar para outras telas do portal (Low Carb e Saúde Preventiva) ou retornar para a Home, clicando no logomarca disposta no cabeçalho da página. 
+
+4. Tela Saúde Preventiva: Ao clicar em Saúde Preventiva na tela home, o usuário é direcionado a uma tela descritiva contendo informações sobre os benefícios à saúde e como a ingestão desses alimentos ajudam na prevenção de inúmeras doenças. Nesta tela o usuário tem a opção de migrar para outras telas do portal (Low Carb e Alimentos) ou retornar para a Home, clicando no logomarca disposta no cabeçalho da página. 
+
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
