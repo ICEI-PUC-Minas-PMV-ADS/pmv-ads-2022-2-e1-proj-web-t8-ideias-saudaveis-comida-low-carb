@@ -232,8 +232,7 @@ Figura 3 - Tela Alimentos <br>
 
 <strong> Requisitos atendidos:</strong>
 
-RF-03: A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para
-permitir ao usuário localizar um alimento por nome.
+RF-03: A seção Alimentos deve conter um ambiente focado no consumo de alimentos. Dentre esses o que podem fazer parte de uma dieta Low Carb, bem como aqueles que são de consumo proibido.
 
 
 <strong>Artefatos da funcionalidade</strong>
