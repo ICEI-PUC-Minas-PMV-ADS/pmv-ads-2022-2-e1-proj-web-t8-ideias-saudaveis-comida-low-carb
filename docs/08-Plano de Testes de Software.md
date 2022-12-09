@@ -1,15 +1,15 @@
 # Plano de Testes de Software
 
-Os requisitos para realização dos testes de software são:
-● Site publicado na Internet
-● Navegador da Internet - Chrome, Firefox ou Edge
+Os requisitos para realização dos testes de software são: <br>
+● Site publicado na Internet<br>
+● Navegador da Internet - Chrome, Firefox ou Edge<br>
 ● Conectividade de Internet para acesso às plataformas (APISs)
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
 <table>
 
-<tr><td>Caso de Teste</td> <td>CT-01 - Visualizar na Home os os mais diversos assunntos ligados à Comida Low Carb</td>  </tr>
+<tr><td>Caso de Teste</td> <td>CT-01 - Visualizar na Home os mais diversos assunntos ligados à Comida Low Carb</td>  </tr>
 
 <tr><td>Requisitos Associados:</td> <td>RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.</td> </tr>
 
