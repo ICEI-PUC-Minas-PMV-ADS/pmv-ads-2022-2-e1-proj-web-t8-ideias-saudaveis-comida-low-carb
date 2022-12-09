@@ -9,7 +9,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
 <table>
 
-<tr> <strong> <td>Caso de Teste</td> <td>CT-01 - Visualizar na Home os mais diversos assunntos ligados à Comida Low Carb</td> </strong> </tr>
+<tr>  <td><strong>Caso de Teste</strong></td> <td><strong>CT-01 - Visualizar na Home os mais diversos assunntos ligados à Comida Low Carb</strong></td>  </tr>
 
 <tr><td>Requisitos Associados:</td> <td>RF-01: A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva.</td> </tr>
 
