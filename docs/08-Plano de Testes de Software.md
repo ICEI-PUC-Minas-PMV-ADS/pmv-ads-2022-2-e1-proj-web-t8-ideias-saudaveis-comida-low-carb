@@ -15,7 +15,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
 <tr><td>Objetivo do Teste:</td> <td>Verificar se a o direcionamento através de links está devidamente acionado e funcionando corretamente.</td></tr>
 
-<tr><td>Passos: </td> <td>1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Visualizar a página principal </td> <td> <br>4) Clicar nas seções direcionadas a determinado assunto (Low Carb, Alimentos e Saúde Preventiva) </td> </tr>
+<tr><td>Passos: </td> <td>1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Visualizar a página principal <br>4) Clicar nas seções direcionadas a determinado assunto (Low Carb, Alimentos e Saúde Preventiva) </td>  </tr>
  
 <tr><td>Critérios de Êxito: </td>
 <td>● Deve haver uma requisição AJAX no painel NETWORK das ferramentas do Desenvolvedor (recurso do Navegador).<br>
