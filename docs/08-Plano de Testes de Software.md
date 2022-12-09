@@ -18,8 +18,8 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 <tr><td>Passos: </td> <td>1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Visualizar a página principal </td></tr>
  
 <tr><td>Critérios de Êxito: </td>
-<td>● Deve haver uma requisição AJAX no painel NETWORK das ferramentas do Desenvolvedor (recurso do Navegador).
-● As notícias devem ser exibidas corretamente no site, sendo necessárias pelo menos 3 notícias sendo apresentadas
+<td>● Deve haver uma requisição AJAX no painel NETWORK das ferramentas do Desenvolvedor (recurso do Navegador).<br>
+● As notícias devem ser exibidas corretamente no site, sendo necessárias pelo menos 3 notícias sendo apresentadas<br>
 ● As notícias devem trazer imagens visíveis associadas ao assunto da notícia </td></tr>
 
 </table>
