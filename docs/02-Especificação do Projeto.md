@@ -227,7 +227,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`<br>
  <br>
  Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.<br>
-
+<br>
 Valéria Prado | Ter um canal informativo voltado para a sua área de atuação. | Para indicação aos mais diversos públicos por ela atendidos.
 
 Carlos Eduardo | Visualizar dicas de produtos e opções de cardápios.|Ter uma alimentação preventiva, livre de produtos industrializados.
