@@ -9,9 +9,9 @@ Com base nos dados apresentados, o foco principal desse projeto será o combate 
 
 O Objetivo Geral desse projeto é criar de um Portal Informativo que vise conscientizar as pessoas sobre os benefícios de uma alimentação saudável baseada em alimentos Low Carb. Um canal com informações confiáveis e direcionadas àqueles que almejam um estilo de vida saudável, longe de produtos industrializados
 
-Como objetivos específicos, podemos ressaltar:
-●	Criar de hábitos alimentares saudáveis por meio de informações que propiciem a diminuição no consumo de carboidratos;
-●	Esclarecer sobre os benefícios da dieta low carb para o corpo e mente.
+Como objetivos específicos, podemos ressaltar:<br>
+●	Criar de hábitos alimentares saudáveis por meio de informações que propiciem a diminuição no consumo de carboidratos;<br>
+●	Esclarecer sobre os benefícios da dieta low carb para o corpo e mente.<br>
 ●	Publicar notícias e atualizações sobre os principais benefícios da dieta low carb
 
 ## Justificativa

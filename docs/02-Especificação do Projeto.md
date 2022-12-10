@@ -226,7 +226,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 <br>
 |EU COMO...`PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`<br>
  <br>
- Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.
+ Marisa Camargo | Obter dicas de opções práticas e rápidas de alimentação saudável |	Quero perder peso e melhorar minha saúde, mas, como funcionária pública e mãe, não tenho muito tempo para ficar na cozinha.<br>
 
 Valéria Prado | Ter um canal informativo voltado para a sua área de atuação. | Para indicação aos mais diversos públicos por ela atendidos.
 
@@ -251,7 +251,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |------|--------------------------------------|----|
 |RF-001|  A seção Home é o portal de entrada, contendo um menu fixo para suas 3 seções, sendo elas: Low Carb – o que é e benefícios, Alimentos e Saúde preventiva. |ALTA| 
 |RF-002| O que é comida Low Carb? Quais os Benefícios?|MÉDIA|
-|RF-003| A seção Alimentos deve conter uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um alimento por nome. |ALTA|
+|RF-003| A seção Alimentos deve conter um ambiente focado no consumo. Dentre esses o que podem fazer parte de uma dieta Low Carb, bem como aqueles que são de consumo proibido.|ALTA|
 |RF-004| Saúde Preventiva – benefícios diários e prevenção de doenças - portal deve apresentar uma seção destinada à prevenção de doenças devido ao consumo de alimentos saudáveis. |ALTA|
 <br>
 
@@ -260,7 +260,6 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 <br>
 |ID |  Descrição do Requisito  |Prioridade |
 |------|-------------------------|-----------|
-<br>
 |RNF-001|O portal será de domínio público, possibilitando assim uma maior interação do público.|ALTA| 
 |RNF-002| O portal poderá ser visualizado, tanto na versão WEB quanto em aparelhos de celular com sistemas Android e IOS.|ALTA| 
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA|
