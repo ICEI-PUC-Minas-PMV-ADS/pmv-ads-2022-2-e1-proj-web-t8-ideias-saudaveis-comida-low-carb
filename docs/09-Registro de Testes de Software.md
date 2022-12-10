@@ -19,6 +19,3 @@ Podemos visualizar abaixo os cenários de testes que demonstrem os requisitos se
 ## Avaliação
 
 Os testes foram bem satisfatórios, buscando a atender todos os requisitos e funcionalidades. Um dos pontos fortes é a maliabilidade do usuário em transitar pelas páginas com a devida facilidade de acesso, permitindo uma maior interação com o portal. Como ponto fraco podemos citar as telas ainda em contrução e que no momento encontra-se sem a devida interação. Iremos atacar essa lacunas nas próximas interações de modo a tornar o site navegável em seu inteiro teor. 
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
