@@ -1,7 +1,5 @@
 # Ideias Saudáveis Comida Low Carb
 
-<img id = "figma" src="../docs/img/Modelologo.png" width=400px>
-
 `CURSO`
 Análise de Desenvolvimento de Sistemas
 
