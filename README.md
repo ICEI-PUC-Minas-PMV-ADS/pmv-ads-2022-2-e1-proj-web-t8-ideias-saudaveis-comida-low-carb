@@ -1,3 +1,5 @@
+<img id = "figma" src="../docs/img/Modelologo.png" width=400px>
+
 # Ideias Saudáveis Comida Low Carb
 
 `CURSO`
