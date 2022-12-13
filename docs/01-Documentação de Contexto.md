@@ -3,7 +3,8 @@ Quatro em cada dez brasileiros apresentavam excesso de peso. Com a pandemia, ess
 Eis que em meio a esse caos social crescente, surge a dieta Low Carb que nada mais é que um estilo de alimentação onde se diminui a ingestão de alimentos ricos em carboidratos, inserindo mais vegetais pobres em carboidratos e ricos em fibras que ajudam a diminuir os níveis de colesterol, triglicerídeos e açúcar no sangue, prevenindo doenças como infarto, diabetes e obesidade.
 
 ## Problema
-Com base nos dados apresentados, o foco principal desse projeto será o combate à obesidade e a prevenção de doença por meio da informação e dicas de uma alimentação saudável baseada no controle de ingestão de carboidratos.
+
+Com base nos dados apresentados, entendemos que a grande dificuldade da atualidade é se combater a obesidade e os problemas a ela relacionados. Esta dificuldade está diretamente ligada à falta de acesso da população a informações sobre como manter uma alimentação saudável, satisfatória, prática, de baixo custo, rica em nutrientes e de baixo teor calórico.
 
 ## Objetivos
 
