@@ -12,4 +12,4 @@ Idéias Saudáveis - Comida Low Carb
 
 ## Apresentação - Conjunto de Slides (Estrutura)
 
-<a href="https://docs.google.com/presentation/d/1RQKFXMFP8cFUNCcrxWvOZX9rkHvPTDnx/edit?usp=share_link&ouid=103093552031655517445&rtpof=true&sd=true"> </a>
+<a href="https://docs.google.com/presentation/d/1RQKFXMFP8cFUNCcrxWvOZX9rkHvPTDnx/edit?usp=share_link&ouid=103093552031655517445&rtpof=true&sd=true"> Clique aqui para acessar a apresentação </a>
