@@ -45,12 +45,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-ideias-saudaveis-comida-low-carb/src/home.html">Para acessar o portal, clique aqui</a>
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+* <a href="https://drive.google.com/file/d/1tTyDrRUCHm8LAuKNckLhp3fFZg9sfLdF/view?usp=share_link"> Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+* <a href="https://docs.google.com/presentation/d/1RQKFXMFP8cFUNCcrxWvOZX9rkHvPTDnx/edit?usp=share_link&ouid=103093552031655517445&rtpof=true&sd=true">Apresentação da solução</a>
