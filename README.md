@@ -54,3 +54,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Armazenamento da Apresentação
 
 * <a href="https://docs.google.com/presentation/d/1RQKFXMFP8cFUNCcrxWvOZX9rkHvPTDnx/edit?usp=share_link&ouid=103093552031655517445&rtpof=true&sd=true">Apresentação da solução</a>
+
+# Vídeo de Apresentação
+
+* <a href="https://drive.google.com/file/d/16_q-neIQIO_IFPzSib60Zgrewdj_I4Qb/view?usp=share_link">Cliquei aqui para assitir a apresentação do vídeo</a>
+
